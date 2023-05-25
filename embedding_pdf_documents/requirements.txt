@@ -1,0 +1,9 @@
+arxiv
+faiss-cpu
+langchain
+pypdf
+ray[data]
+sentence-transformers
+tqdm
+torch
+transformers
